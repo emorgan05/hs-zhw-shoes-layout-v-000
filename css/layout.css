@@ -45,6 +45,6 @@
   margin-left: 0;
 }
 
-div#deals {
+div.wrapper div#deals {
   margin-top: 12px;
 }
