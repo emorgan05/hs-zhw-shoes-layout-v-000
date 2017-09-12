@@ -45,7 +45,6 @@
   margin-left: 0;
 }
 
-div.wrapper div#deals {
-  position: relative;
+div#deals.wrapper.clear.clearfix{
   margin-top: 12px;
 }
