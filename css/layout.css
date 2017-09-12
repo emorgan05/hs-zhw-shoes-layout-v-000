@@ -26,7 +26,6 @@
 .col-1 {
   float: left;
   width: 32.334%;
-  margin-top: 12px;
 }
 
 .col-2 {
@@ -46,3 +45,6 @@
   margin-left: 0;
 }
 
+#deals {
+  margin-top: 12px;
+}
